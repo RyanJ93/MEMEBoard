@@ -1,0 +1,17 @@
+Bug fix and additions for new version:
+
+# Add support for profile picture for users.
+# Add support for multiple languages.
+# Replace window.confirm with custom alerts.
+# Add support for Google AdSense.
+# Add support for videos in newsletter.
+# Write a better documentation explaining how the project actually works.
+
+Additional features:
+
+# Add support for Disquss.
+# Add support for captcha in login, registration and anonymous comments.
+# Add status for users (banned, suspended, and so on...).
+# Create Wiki on GitHub.
+# Create a CLI tool for admin tasks.
+# Add support for Telegram channel.

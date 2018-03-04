@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /users*
+Disallow: /create
+Disallow: /login
+Disallow: /register
+Disallow: /logout
+Disallow: /user/*
+Disallow: /passwordRestore
+Disallow: /restorePassword
+Disallow: /validateEmail
+Disallow: /validatePassword
+Disallow: /toggleVote*
+Disallow: /unsubscribe
+
+Sitemap: /sitemap.xml
